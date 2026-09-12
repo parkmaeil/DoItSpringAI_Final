@@ -1,4 +1,4 @@
-# 완성된 소스코드 참고
+# 💯 완성된 소스코드 입니다.
 https://github.com/parkmaeil/DoItSpringAI_Final
 
 # 📘 스프링 AI를 활용한 AI 에이전트 개발 입문
