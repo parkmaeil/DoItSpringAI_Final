@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "F:/이지스퍼블리싱/sourcecode/project-01/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "F:/이지스퍼블리싱/sourcecode/project-01/./frontend/generated/jar-resources",
+  "staticOutput": "F:/이지스퍼블리싱/sourcecode/project-01/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "F:\\이지스퍼블리싱\\sourcecode\\project-01\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "F:\\이지스퍼블리싱\\sourcecode\\project-01\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "F:/이지스퍼블리싱/sourcecode/project-01/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "F:/이지스퍼블리싱/sourcecode/project-01/target/dev-bundle/config",
+  "jarResourcesFolder": "F:/이지스퍼블리싱/sourcecode/project-01/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "F:\\이지스퍼블리싱\\sourcecode\\project-01\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

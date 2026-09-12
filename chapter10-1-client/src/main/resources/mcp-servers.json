@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-server-stdio": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "F:\\이지스퍼블리싱\\sourcecode\\chapter11-1\\build\\libs\\chapter11-1-0.0.1-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
