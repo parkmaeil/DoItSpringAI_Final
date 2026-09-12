@@ -1,3 +1,6 @@
+# 완성된 소스코드 참고
+https://github.com/parkmaeil/DoItSpringAI_Final
+
 # 📘 스프링 AI를 활용한 AI 에이전트 개발 입문
 
 **출판사**: 이지스퍼블리싱 | **저자**: 박매일
